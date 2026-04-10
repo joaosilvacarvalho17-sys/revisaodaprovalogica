@@ -8,9 +8,14 @@
 }
 
 .navegacao{
-    background-color: lightsteelblue;
+    background-color: darkgray;
 }
 
 .secao{
-    background-color: darkgrey;
+   background-color: lightslategray;
+}
+ 
+
+.rodape{
+    background-color: slategray;
 }
