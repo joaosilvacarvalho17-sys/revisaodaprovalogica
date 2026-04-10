@@ -4,5 +4,9 @@
 }
 
 .cabecalho {
-    background-color: slategray;
+    background-color: slategray
+}
+
+.navegacao{
+    background-color: lightsteelblue;
 }
